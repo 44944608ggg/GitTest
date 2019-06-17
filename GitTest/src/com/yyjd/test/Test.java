@@ -19,5 +19,9 @@ public class Test {
 	public void fun5(){
 		System.out.println("day one");
 	}
+	
+	public void fun7(){
+		System.out.println("day one");
+	}
 
 }
