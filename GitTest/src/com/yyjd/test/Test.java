@@ -23,5 +23,9 @@ public class Test {
 	public void fun7(){
 		System.out.println("day one");
 	}
+	
+	public void fun8(){
+		System.out.println("day one");
+	}
 
 }
