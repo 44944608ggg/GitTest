@@ -6,8 +6,14 @@ public class Test {
 		System.out.println("helloworld");
 	}
 	
+	
+	
 	public void fun(){
 		System.out.println();
+	}
+	
+	public void fun2(){
+		System.out.println("day one");
 	}
 
 }
